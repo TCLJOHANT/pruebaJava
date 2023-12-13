@@ -1,0 +1,14 @@
+[
+    {
+        "tipoDocumento": "Cédula",
+        "numeroDocumento": "123456789",
+        "nombres": "Carlos",
+        "apellidos": "Chilito",
+        "fechaNacimiento": "1995-05-15",
+        "ultimoGradoEscolaridad": "Bachiller",
+        "gradoResponsable": "10",
+        "email": "juan.perez@example.com",
+        "telefonoFijo": "1234567890",
+        "celular": "9876543210"
+    }
+]

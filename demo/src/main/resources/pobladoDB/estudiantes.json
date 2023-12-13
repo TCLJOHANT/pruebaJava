@@ -1,0 +1,32 @@
+[
+    {
+      "tipoDocumento": "Cedula",
+      "numeroDocumento": "123456789",
+      "nombres": "Juan",
+      "apellidos": "Pérez",
+      "fechaNacimiento": "1990-01-01",
+      "gradoMatriculado": "10",
+      "ciudadResidencia": "Ciudad",
+      "direccionResidencia": "Calle 123",
+      "email": "juan.perez@example.com",
+      "telefonoFijo": "123456789",
+      "celular": "987654321",
+      "nombreAcudiente": "María Pérez"
+    },
+    {
+      "tipoDocumento": "Cedula",
+      "numeroDocumento": "123456789",
+      "nombres": "Jesus",
+      "apellidos": "Pérez",
+      "fechaNacimiento": "1990-01-01",
+      "gradoMatriculado": "10",
+      "ciudadResidencia": "Ciudad",
+      "direccionResidencia": "Calle 123",
+      "email": "jesus.perez@example.com",
+      "telefonoFijo": "123456789",
+      "celular": "987654321",
+      "nombreAcudiente": "Marol Pérez"
+    }
+
+  ]
+  

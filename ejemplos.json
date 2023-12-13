@@ -1,0 +1,23 @@
+{
+    "DataEstudiante":[
+            {
+            "tipoDocumento": "Cédula",
+            "numeroDocumento": "1234567890",
+            "nombres": "Juan",
+            "apellidos": "Pérez",
+            "fechaNacimiento": "1990-01-15",
+            "gradoMatriculado": "Noveno",
+            "ciudadResidencia": "Bogotá",
+            "direccionResidencia": "Calle 123 #45-67",
+            "email": "juan.perez@example.com",
+            "telefonoFijo": "1234567",
+            "celular": "987654321",
+            "nombreAcudiente": "María Gómez"
+        }
+    ],
+    "DataDocente":[
+        {
+            
+        }
+    ]
+}

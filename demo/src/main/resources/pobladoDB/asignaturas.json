@@ -1,0 +1,17 @@
+[
+    {
+
+    "nombreAsignatura": "Matemáticas",
+    "docente": 1
+  },
+  {
+
+    "nombreAsignatura": "Ingles",
+    "docente": 1
+  },
+  {
+
+    "nombreAsignatura": "Fisica",
+    "docente": 1
+  }
+]
